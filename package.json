@@ -1,8 +1,8 @@
 {
-  "name": "@tact-lang/emulator",
+  "name": "@nx-fi/tact-emulator",
   "version": "4.2.2",
   "main": "dist/index.js",
-  "repository": "https://github.com/tact-lang/tact-emulator.git",
+  "repository": "https://github.com/nx-fi/tact-emulator.git",
   "author": "Steve Korshakov <steve@korshakov.com>",
   "license": "MIT",
   "files": [
